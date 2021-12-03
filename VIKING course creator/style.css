@@ -1,6 +1,7 @@
 /*
 Theme Name: VIKING course creation
-Author: Behdin
+Author: Behdin Bagheri
+Description: the theme is built and supports ACF, CPT, PDF Embedder, and is responsive | Enjoy! 
 Version: 1.0
 */
 
@@ -766,8 +767,6 @@ body{
       .btn-linkedin:hover {
         background-color: #0177b5;
       }
-
-
       footer{
           background-color: #e0e0e0 !important;
       }
@@ -851,7 +850,6 @@ body{
       @media only screen and (max-width: 810px) {
         .row {
           width: 100%;
-          margin-right: -15px;
           margin-left: -15px;
        }
       }
@@ -1177,7 +1175,6 @@ label{
   height: 98.5%;
 }
 .product-container{
-  width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1278,8 +1275,6 @@ label{
     flex-grow: 1;
   }
   .product-information-container{
-    width: 100%;
-    padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;    
